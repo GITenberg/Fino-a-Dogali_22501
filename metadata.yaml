@@ -1,0 +1,31 @@
+_repo: Fino-a-Dogali_22501
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oriani, Alfredo
+    alias: Banzole, Ottone di
+    birthdate: 1852
+    deathdate: 1909
+    gutenberg_agent_id: '9059'
+    url: http://www.gutenberg.org/2009/agents/9059
+    wikipedia: http://it.wikipedia.org/wiki/Alfredo_Oriani
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22501'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PQ'
+tableOfContents: Don Giovanni Verità -- La via Emilia -- Niccolo Macchiavelli -- Tragedia
+  -- Dogali -- Ex Imo.
+title: Fino a Dogali
+url: http://www.gutenberg.org/ebooks/22501
